@@ -1,3 +1,9 @@
+---
+title: "Earth is a squashed sphere"
+date: 2021-11-12
+---
+
+
 # Earth is a squashed sphere
 ![(Image credit: Markus Reugels, LiquidArt)](https://cdn.mos.cms.futurecdn.net/YQTvJdxCDrQjceVaYEP6q3-970-80.jpg.webp)
 ___Image credit: Markus Reugels, LiquidArt___
